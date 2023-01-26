@@ -67,8 +67,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![output](Screenshot%20from%202023-01-23%2018-25-56.png)
-![output](Screenshot%20from%202023-01-23%2018-26-07.png)
+![output](Screenshot%20from%202023-01-26%2015-38-16.png)
+![output](Screenshot%20from%202023-01-26%2015-38-21.png)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
